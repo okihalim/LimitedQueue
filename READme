@@ -1,0 +1,3 @@
+LIMITED QUEUE
+Java class that creates a queue with fixed size
+Queue saves items as objects so items can have varying data types
